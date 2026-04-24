@@ -46,15 +46,6 @@
 * 🗳️ **VoteChain**: Led a team to launch an online voting platform utilizing Solana, Phantom Wallet, Next.js, Cryptography, and GDPR guidelines.
 * 🌱 **Agro-Aid**: Led frontend development of a smart agriculture platform integrating machine learning models via RESTful APIs for crop yield prediction and disease detection.
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishektaur264&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishektaur264&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
 <br/>
 
 <div align="center">
