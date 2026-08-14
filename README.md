@@ -46,6 +46,15 @@
 <img src="https://img.shields.io/badge/Operating System-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Operating System" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 <img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=flask&logoColor=white" alt="SpringBoot" />
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Git-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Postman-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Postman" />
+<img src="https://img.shields.io/badge/ Excel-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt=" Excel" />
+<img src="https://img.shields.io/badge/PowerBi-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="PowerBi" />
+<img src="https://img.shields.io/badge/ Hubspot-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=" Hubspot" />
 ---
 
 ### 🚀 Featured Projects
