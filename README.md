@@ -38,6 +38,14 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 <img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=flask&logoColor=white" alt="SpringBoot" />
+
+**Core Subjects**
+<br/>
+<img src="https://img.shields.io/badge/OOPS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="OOPS" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt=" DBMS" />
+<img src="https://img.shields.io/badge/Operating System-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Operating System" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=flask&logoColor=white" alt="SpringBoot" />
 ---
 
 ### 🚀 Featured Projects
