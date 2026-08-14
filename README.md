@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-
+<img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=flask&logoColor=white" alt="SpringBoot" />
 ---
 
 ### 🚀 Featured Projects
