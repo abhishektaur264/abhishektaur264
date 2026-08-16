@@ -1,89 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=180&section=header&text=Abhishek%20Taur&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20%26%20Digital%20Forensics%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Abhishek+Taur!+👋;Cyber+Security+%26+Digital+Forensics;Full-Stack+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Securing+Systems%2C+One+Line+at+a+Time;Building+Full-Stack+Applications;Exploring+AI+%26+Digital+Forensics" alt="Typing SVG" />
+  <a href="mailto:abhishektaur7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/abhishektaur264"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
-<div align="center">
-  <a href="mailto:abhishektaur7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/abhishektaur264">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+---
 
-<br />
+### 👨‍💻 About Me
+* 🎓 Pursuing a B.Tech in Computer Science, Specialization: Cyber Security And Digital Forensic at VIT Bhopal University. 
+* 🛡️ Serving as the President of the Cyber Warrior Club, facilitating industry leader sessions and CTF contests.
+* 🤝 Actively engaged in community leadership, serving as an Agricultural Outreach Volunteer and Event Management Lead.
+* 💡 Certified in Full stack Development with MongoDB and IBM Gen-Ai.
 
-<div align="center">
-  <p>
-    I'm a <b>Computer Science undergrad</b> specializing in <b>Cyber Security & Digital Forensics</b> at VIT Bhopal University.
-    I lead the <b>Cyber Warrior Club</b> as President, running industry sessions and CTF contests, while
-    building full-stack applications and exploring the intersection of <b>security and AI</b>.
-  </p>
-</div>
+---
 
-<br />
+### 🛠️ Tech Stack & Tools
 
-<h3 align="center">👨‍💻 About Me</h3>
-<div align="center">
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-🎓 Pursuing a B.Tech in Computer Science, Specialization in Cyber Security & Digital Forensics at VIT Bhopal University
-&nbsp;<br/>
-🛡️ President of the Cyber Warrior Club — facilitating industry leader sessions and CTF contests
-&nbsp;<br/>
-🤝 Agricultural Outreach Volunteer and Event Management Lead
-&nbsp;<br/>
-💡 Certified in Full Stack Development (MongoDB) and IBM Gen-AI
+**Frameworks & Technologies**
+<br/>
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=flask&logoColor=white" alt="SpringBoot" />
 
-</div>
+**Core Subjects**
+<br/>
+<img src="https://img.shields.io/badge/OOPS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="OOPS" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt=" DBMS" />
+<img src="https://img.shields.io/badge/Operating System-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Operating System" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=flask&logoColor=white" alt="SpringBoot" />
 
-<br />
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Git-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Postman-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Postman" />
+<img src="https://img.shields.io/badge/ Excel-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt=" Excel" />
+<img src="https://img.shields.io/badge/PowerBi-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="PowerBi" />
+<img src="https://img.shields.io/badge/ Hubspot-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=" Hubspot" />
+---
 
-<h3 align="center">🛠️ Technical Arsenal</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nextjs,tailwind,flask,spring,postgresql,git,github,postman" />
-</div>
+### 🚀 Featured Projects
 
-<br />
+* 🤖 **[Git Docs](https://github.com/abhishektaur264/Git-Docs)**: Built GitDocs, an Al-powered documentation generator using Next.js and Python. Engineered a smart parsing engine using NLP and AST analysis.
+* 🗳️ **VoteChain**: Led a team to launch an online voting platform utilizing Solana, Phantom Wallet, Next.js, Cryptography, and GDPR guidelines.
+* 🌱 **Agro-Aid**: Led frontend development of a smart agriculture platform integrating machine learning models via RESTful APIs for crop yield prediction and disease detection.
 
-<h3 align="center">📊 Other Tools</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
-</div>
-
-<br />
-
-<h3 align="center">🚀 Featured Projects</h3>
-<div align="center">
-
-🤖 **[Git Docs](https://github.com/abhishektaur264/Git-Docs)** — AI-powered documentation generator built with Next.js and Python, featuring a smart parsing engine using NLP and AST analysis
-&nbsp;<br/><br/>
-🗳️ **VoteChain** — Online voting platform built with Solana, Phantom Wallet, Next.js, cryptography, and GDPR-compliant design
-&nbsp;<br/><br/>
-🌱 **Agro-Aid** — Smart agriculture platform with ML-powered crop yield prediction and disease detection via RESTful APIs
-
-</div>
-
-<br />
-
-<h3 align="center">📈 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishektaur264&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Abhishek's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektaur264&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="38%" />
-</div>
-
-<br />
+<br/>
 
 <div align="center">
-  <i>"Every system has a weakness — I'm here to find it before someone else does."</i>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=60&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektaur264&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </div>
