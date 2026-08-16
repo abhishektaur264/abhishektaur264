@@ -111,14 +111,6 @@
 
 <br />
 
-<h3 align="center">📈 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishektaur264&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Abhishek's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektaur264&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="38%" />
-</div>
-
-<br />
-
 <div align="center">
   <i>"Every system has a weakness — I'm here to find it before someone else does."</i>
   <br/><br/>
