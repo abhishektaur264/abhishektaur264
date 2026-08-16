@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A1A1A,100:333333&height=200&section=header&text=Abhishek%20Taur&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20%26%20Digital%20Forensics%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50&descColor=CCCCCC"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A1A1A,100:333333&height=200&section=header&text=Abhishek%20Taur&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20and%20Digital%20Forensics%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50&descColor=CCCCCC"/>
 </div>
 
 <div align="center">
@@ -8,16 +8,16 @@
 
 <div align="center">
   <a href="mailto:abhishektaur7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-taur">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/abhishektaur/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://github.com/abhishektaur264">
-    <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -52,21 +52,21 @@
 
 <p align="center"><b>Languages</b></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css" />
 </div>
 
 <p align="center"><b>Frameworks & Databases</b></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,spring,postgresql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,spring,postgresql,mongodb" />
 </div>
 
 <p align="center"><b>Tools & Platforms</b></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoft-excel&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/HubSpot-000000?style=flat-square&logo=hubspot&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" height="28"/>
 </div>
 
 <br />
@@ -113,8 +113,8 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishektaur264&show_icons=true&theme=github-dark&hide_border=true&bg_color=000000" alt="Abhishek's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektaur264&layout=compact&theme=github-dark&hide_border=true&bg_color=000000" alt="Top Languages" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishektaur264&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Abhishek's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektaur264&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="38%" />
 </div>
 
 <br />
@@ -122,5 +122,5 @@
 <div align="center">
   <i>"Every system has a weakness — I'm here to find it before someone else does."</i>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,50:1A1A1A,100:000000&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer"/>
 </div>
