@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Abhishek%20Taur&fontSize=70&fontColor=00FF7F&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20%26%20Digital%20Forensics%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50&descColor=D3D3D3"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=200&amp;section=header&amp;text=Abhishek%20Taur&amp;fontSize=70&amp;fontColor=00FF7F&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Cyber%20Security%20%26%20Digital%20Forensics%20%7C%20Full-Stack%20Developer&amp;descAlignY=55&amp;descAlign=50&amp;descColor=D3D3D3"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF7F&center=true&vCenter=true&width=750&lines=Securing+Systems%2C+One+Line+at+a+Time;Building+AI-Powered+Full-Stack+Applications;Turning+Code+into+Real-World+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=00FF7F&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Securing+Systems%2C+One+Line+at+a+Time;Building+AI-Powered+Full-Stack+Applications;Turning+Code+into+Real-World+Impact" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="mailto:abhishektaur7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-taur">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/abhishektaur/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" />
   </a>
   <a href="https://github.com/abhishektaur264">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
 </div>
 
@@ -64,9 +64,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoft-excel&amp;logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&amp;logo=hubspot&amp;logoColor=white" height="28"/>
 </div>
 
 <br />
@@ -113,8 +113,8 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishektaur264&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Abhishek's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektaur264&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishektaur264&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117" alt="Abhishek's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektaur264&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117" alt="Top Languages" width="38%" />
 </div>
 
 <br />
@@ -122,5 +122,5 @@
 <div align="center">
   <i>"Every system has a weakness — I'm here to find it before someone else does."</i>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C5364,50:203A43,100:0F2027&amp;height=90&amp;section=footer"/>
 </div>
